@@ -2,6 +2,10 @@
 
 ## setup
 
+using conda - preliminary  
+- pip install python-pip
+- pip install cython
+
 you need a virtual environment (conda on SageMaker, I use virtualenvwrapper on my laptop)
 
 - tensorflow (v 1.14 hardcoded to use CUDA 10.0 object files)  
