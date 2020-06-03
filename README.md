@@ -2,9 +2,11 @@
 
 ## setup
 
-using conda - preliminary  
-- pip install python-pip
-- pip install cython
+using conda - preliminary   
+- pip install python-pip  
+- pip install cython  
+- pip install matplotlib  
+- pip install pillow  
 
 you need a virtual environment (conda on SageMaker, I use virtualenvwrapper on my laptop)
 
